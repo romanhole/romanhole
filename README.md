@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Romanhole and I am in the 3rd year of Technical High School of Campinas (SP-BR), in computing course!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
