@@ -30,7 +30,7 @@ Welcome to my Github page! I am Romanhole and I am in the 3rd year of Technical 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio code/visualstudio code.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio code/visualstudio code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
