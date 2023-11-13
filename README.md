@@ -11,13 +11,10 @@ Welcome to my Github page! My name is Romanhole, I'm an Android developer at Ven
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer course in Technical High School of Campinas  
-- Final Paper about Data Science and Machine Learning 
-- Looking for internship
+- Personal projects to improve knowledge on Android and Kotlin
 
 #### :muscle: Goals:
-- Get a good internship
-- Get into a good university
+- Become an Android expert
 - Meet new people
 - Go to new places
 
@@ -25,15 +22,16 @@ Welcome to my Github page! My name is Romanhole, I'm an Android developer at Ven
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=romanhole&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+
 </p>
