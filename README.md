@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romanhole/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafa.rborroz@gmail.com)
 
-Welcome to my Github page! I am Romanhole and I am in the 3rd year of Technical High School of Campinas (SP-BR), in computing course!  
+Welcome to my Github page! My name is Romanhole, I'm an Android developer at Venturus and I'm studying the 2nd semester at the Universidade de São Paulo (USP), in Information Systems course!
 
 <img align="right" alt="img" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="50%" height="auto" />
 
