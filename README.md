@@ -23,15 +23,15 @@ Welcome to my Github page! My name is Romanhole, I'm an Android developer at Ven
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=romanhole&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img width="10%" src="https://1.bp.blogspot.com/-8tpT11-QnY8/X0cAJ5QCpTI/AAAAAAAAPkk/Wi1KtKYBaBIYV2QNiPY85w1_tCgIvxr7gCLcBGAsYHQ/s320/JetpackCompose_logo.png"></code>
+<code><img width="10%" src="https://findvectorlogo.com/wp-content/uploads/2019/02/emvco-vector-logo.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 </p>
